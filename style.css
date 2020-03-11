@@ -1,4 +1,6 @@
 div{
   border: 1px solid black;
-  height: 100px;
+}
+header{
+  background-image: url('background.jpg');
 }
